@@ -8,7 +8,7 @@
 {% spinner '3-dots-bounce' %}
 ```
 
-![3 dots bounce](https://github.com/adamghill/dj-spinners/src/dj_spinners/assets/svg/3-dots-bounce.svg)
+![3 dots bounce](https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-bounce.svg)
 
 ## Spinners 🤩
 
