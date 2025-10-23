@@ -1,0 +1,138 @@
+[project]
+name = "dj-spinners"
+version = "0.1.0"
+description = "Pure SVG loading spinners for Django."
+authors = [
+  { name = "Adam Hill", email = "adam@adamghill.com" },
+]
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = [
+  "django",
+  "spinners",
+  "svg",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Framework :: Django",
+    "Framework :: Django :: 3.2",
+    "Framework :: Django :: 4.0",
+    "Framework :: Django :: 4.1",
+    "Framework :: Django :: 4.2",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+  "Django",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest < 9",
+    "pytest-django >= 0",
+    "pytest-cov >= 0",
+    "mypy >= 0",
+]
+
+[project.urls]
+homepage = "https://github.com/adamghill/dj-spinners/"
+repository = "https://github.com/adamghill/dj-spinners.git"
+
+[tool.ruff]
+src = ["src"]
+exclude = []
+target-version = "py310"
+line-length = 120
+lint.select = [
+  "A",
+  "ARG",
+  "B",
+  "C",
+  "DTZ",
+  "E",
+  "EM",
+  "F",
+  "FBT",
+  "I",
+  "ICN",
+  "ISC",
+  "N",
+  "PLC",
+  "PLE",
+  "PLR",
+  "PLW",
+  "Q",
+  "RUF",
+  "S",
+  "T",
+  "TID",
+  "UP",
+  "W",
+  "YTT",
+]
+lint.ignore = [
+  # Allow non-abstract empty methods in abstract base classes
+  "B027",
+  # Allow boolean positional values in function calls, like `dict.get(... True)`
+  "FBT003",
+  # Ignore checks for possible passwords
+  "S105", "S106", "S107",
+  # Ignore complexity
+  "C901", "PLR0911", "PLR0912", "PLR0913", "PLR0915",
+  # Ignore unused variables
+  "F841",
+   # Ignore exception strings
+  "EM101", "EM102",
+]
+lint.unfixable = [
+  # Don't touch unused imports
+  "F401",
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.isort]
+known-first-party = ["dj_app_template"]
+
+[tool.ruff.lint.flake8-tidy-imports]
+ban-relative-imports = "all"
+
+[tool.ruff.lint.per-file-ignores]
+# Tests can use magic values, assertions, and relative imports
+"tests/**/*" = ["PLR2004", "S101", "TID252", "ARG001"]
+
+[tool.pytest.ini_options]
+addopts = "--quiet --failed-first -p no:warnings -m \"not slow\""
+testpaths = [
+    "tests"
+]
+markers = [
+    "slow: marks tests as slow",
+]
+
+[tool.coverage.run]
+branch = true
+parallel = true
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true
+skip_empty = true
+sort = "cover"
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+
+[build-system]
+requires = ["uv_build>=0.8.12,<0.9.0"]
+build-backend = "uv_build"
