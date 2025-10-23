@@ -10,6 +10,8 @@
 
 ![3 dots bounce](https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-bounce.svg)
 
+All spinners are displayed inside a 24 x 24 dp view box. The main content rests inside the live area of 22 dp with a padding of 1 dp.
+
 ## Spinners 🤩
 
 <h3>Rings</h3>
@@ -20,53 +22,53 @@
       <th>Size in bytes</th>
    </tr>
    <tr>
-      <td>90-ring</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/90-ring.svg">90-ring</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/90-ring.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/90-ring.svg">428</a></td>
+      <td>428</td>
    </tr>
    <tr>
-      <td>90-ring-with-bg</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/90-ring-with-bg.svg">90-ring-with-bg</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/90-ring-with-bg.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/90-ring-with-bg.svg">531</a></td>
+      <td>531</td>
    </tr>
    <tr>
-      <td>180-ring</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/180-ring.svg">180-ring</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/180-ring.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/180-ring.svg">434</a></td>
+      <td>434</td>
    </tr>
    <tr>
-      <td>180-ring-with-bg</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/180-ring-with-bg.svg">180-ring-with-bg</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/180-ring-with-bg.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/180-ring-with-bg.svg">537</a></td>
+      <td>537</td>
    </tr>
    <tr>
-      <td>270-ring</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/270-ring.svg">270-ring</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/270-ring.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/270-ring.svg">483</a></td>
+      <td>483</td>
    </tr>
    <tr>
-      <td>270-ring-with-bg</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/270-ring-with-bg.svg">270-ring-with-bg</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/270-ring-with-bg.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/270-ring-with-bg.svg">586</a></td>
+      <td>586</td>
    </tr>
    <tr>
-      <td>ring-resize</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/ring-resize.svg">ring-resize</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/ring-resize.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/ring-resize.svg">620</a></td>
+      <td>620</td>
    </tr>
 </table>
 <br />
@@ -78,88 +80,88 @@
       <th>Size in bytes</th>
    </tr>
    <tr>
-      <td>3-dots-bounce</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-bounce.svg">3-dots-bounce</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-bounce.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-bounce.svg">635</a></td>
+      <td>635</td>
    </tr>
    <tr>
-      <td>3-dots-fade</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-fade.svg">3-dots-fade</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-fade.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-fade.svg">482</a></td>
+      <td>482</td>
    </tr>
    <tr>
-      <td>3-dots-move</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-move.svg">3-dots-move</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-move.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-move.svg">631</a></td>
+      <td>631</td>
    </tr>
    <tr>
-      <td>3-dots-rotate</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-rotate.svg">3-dots-rotate</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-rotate.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-rotate.svg">409</a></td>
+      <td>409</td>
    </tr>
    <tr>
-      <td>3-dots-scale</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-scale.svg">3-dots-scale</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-scale.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-scale.svg">471</a></td>
+      <td>471</td>
    </tr>
    <tr>
-      <td>3-dots-scale-middle</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-scale-middle.svg">3-dots-scale-middle</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-scale-middle.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/3-dots-scale-middle.svg">422</a></td>
+      <td>422</td>
    </tr>
    <tr>
-      <td>6-dots-rotate</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/6-dots-rotate.svg">6-dots-rotate</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/6-dots-rotate.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/6-dots-rotate.svg">948</a></td>
+      <td>948</td>
    </tr>
    <tr>
-      <td>6-dots-scale</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/6-dots-scale.svg">6-dots-scale</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/6-dots-scale.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/6-dots-scale.svg">1494</a></td>
+      <td>1494</td>
    </tr>
    <tr>
-      <td>6-dots-scale-middle</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/6-dots-scale-middle.svg">6-dots-scale-middle</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/6-dots-scale-middle.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/6-dots-scale-middle.svg">1504</a></td>
+      <td>1504</td>
    </tr>
    <tr>
-      <td>8-dots-rotate</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/8-dots-rotate.svg">8-dots-rotate</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/8-dots-rotate.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/8-dots-rotate.svg">535</a></td>
+      <td>535</td>
    </tr>
    <tr>
-      <td>12-dots-scale-rotate</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/12-dots-scale-rotate.svg">12-dots-scale-rotate</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/12-dots-scale-rotate.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/12-dots-scale-rotate.svg">1693</a></td>
+      <td>1693</td>
    </tr>
    <tr>
-      <td>dot-revolve</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/dot-revolve.svg">dot-revolve</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/dot-revolve.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/dot-revolve.svg">399</a></td>
+      <td>399</td>
    </tr>
 </table>
 <br />
@@ -172,39 +174,39 @@
       <th>Size in bytes</th>
    </tr>
    <tr>
-      <td>bars-fade</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-fade.svg">bars-fade</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/bars-fade.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-fade.svg">514</a></td>
+      <td>514</td>
    </tr>
    <tr>
-      <td>bars-scale</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-scale.svg">bars-scale</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/bars-scale.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-scale.svg">895</a></td>
+      <td>895</td>
    </tr>
    <tr>
-      <td>bars-scale-fade</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-scale-fade.svg">bars-scale-fade</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/bars-scale-fade.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-scale-fade.svg">548</a></td>
+      <td>548</td>
    </tr>
    <tr>
-      <td>bars-scale-middle</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-scale-middle.svg">bars-scale-middle</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/bars-scale-middle.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-scale-middle.svg">825</a></td>
+      <td>825</td>
    </tr>
    <tr>
-      <td>bars-rotate-fadeg</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-rotate-fade.svg">bars-rotate-fadeg</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/bars-rotate-fade.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bars-rotate-fade.svg">1150</a></td>
+      <td>1150</td>
    </tr>
 </table>
 <br />
@@ -217,32 +219,32 @@
       <th>Size in bytes</th>
    </tr>
    <tr>
-      <td>blocks-scale</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-scale.svg">blocks-scale</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/blocks-scale.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-scale.svg">1182</a></td>
+      <td>1182</td>
    </tr>
    <tr>
-      <td>blocks-shuffle-2</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-shuffle-2.svg">blocks-shuffle-2</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/blocks-shuffle-2.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-shuffle-2.svg">524</a></td>
+      <td>524</td>
    </tr>
    <tr>
-      <td>blocks-shuffle-3</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-shuffle-3.svg">blocks-shuffle-3</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/blocks-shuffle-3.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-shuffle-3.svg">646</a></td>
+      <td>646</td>
    </tr>
    <tr>
-      <td>blocks-wave</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-wave.svg">blocks-wave</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/blocks-wave.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/blocks-wave.svg">2457</a></td>
+      <td>2457</td>
    </tr>
 </table>
 <br />
@@ -255,60 +257,60 @@
       <th>Size in bytes</th>
    </tr>
    <tr>
-      <td>pulse</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse.svg">pulse</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse.svg">301</a></td>
+      <td>301</td>
    </tr>
    <tr>
-      <td>pulse-2</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-2.svg">pulse-2</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse-2.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-2.svg">400</a></td>
+      <td>400</td>
    </tr>
    <tr>
-      <td>pulse-3</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-3.svg">pulse-3</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse-3.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-3.svg">499</a></td>
+      <td>499</td>
    </tr>
    <tr>
-      <td>pulse-multiple</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-multiple.svg">pulse-multiple</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse-multiple.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-multiple.svg">503</a></td>
+      <td>503</td>
    </tr>
    <tr>
-      <td>pulse-ring</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-ring.svg">pulse-ring</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse-ring.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-ring.svg">461</a></td>
+      <td>461</td>
    </tr>
    <tr>
-      <td>pulse-rings-2g</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-rings-2.svg">pulse-rings-2g</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse-rings-2.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-rings-2.svg">657</a></td>
+      <td>657</td>
    </tr>
    <tr>
-      <td>pulse-rings-3</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-rings-3.svg">pulse-rings-3</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse-rings-3.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-rings-3.svg">853</a></td>
+      <td>853</td>
    </tr>
    <tr>
-      <td>pulse-rings-multiple</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-rings-multiple.svg">pulse-rings-multiple</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/pulse-rings-multiple.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/pulse-rings-multiple.svg">856</a></td>
+      <td>856</td>
    </tr>
 </table>
 <br />
@@ -321,74 +323,74 @@
       <th>Size in bytes</th>
    </tr>
    <tr>
-      <td>bouncing-ball</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bouncing-ball.svg">bouncing-ball</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/bouncing-ball.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/bouncing-ball.svg">453</a></td>
+      <td>453</td>
    </tr>
    <tr>
-      <td>clock</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/clock.svg">clock</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/clock.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/clock.svg">565</a></td>
+      <td>565</td>
    </tr>
    <tr>
-      <td>eclipse</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/eclipse.svg">eclipse</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/eclipse.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/eclipse.svg">377</a></td>
+      <td>377</td>
    </tr>
    <tr>
-      <td>eclipse-half</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/eclipse-half.svg">eclipse-half</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/eclipse-half.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/eclipse-half.svg">385</a></td>
+      <td>385</td>
    </tr>
    <tr>
-      <td>gooey-balls-1</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/gooey-balls-1.svg">gooey-balls-1</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/gooey-balls-1.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/gooey-balls-1.svg">774</a></td>
+      <td>774</td>
    </tr>
    <tr>
-      <td>gooey-balls-2</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/gooey-balls-2.svg">gooey-balls-2</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/gooey-balls-2.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/gooey-balls-2.svg">1064</a></td>
+      <td>1064</td>
    </tr>
    <tr>
-      <td>tadpole</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/tadpole.svg">tadpole</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/tadpole.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/tadpole.svg">398</a></td>
+      <td>398</td>
    </tr>
    <tr>
-      <td>wifi</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/wifi.svg">wifi</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/wifi.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/wifi.svg">999</a></td>
+      <td>999</td>
    </tr>
    <tr>
-      <td>wifi-fade</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/wifi-fade.svg">wifi-fade</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/wifi-fade.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/wifi-fade.svg">989</a></td>
+      <td>989</td>
    </tr>
    <tr>
-      <td>wind-toy</td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/wind-toy.svg">wind-toy</a></td>
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/wind-toy.svg" />
       </td>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/wind-toy.svg">1321</a></td>
+      <td>1321</td>
    </tr>
 </table>
 
@@ -399,4 +401,4 @@
 
 ## Inspiration 😍
 
-- [svg-spinners](https://github.com/adamghill/dj-spinners)
+- [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners/)
