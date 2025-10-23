@@ -2,7 +2,7 @@ from functools import lru_cache
 from importlib import resources
 
 from django import template
-from django.utils.safestring import mark_safe
+from django.utils.safestring import SafeString, mark_safe
 
 register = template.Library()
 
@@ -28,7 +28,7 @@ def _load_svg(name: str) -> str:
 
 
 @register.simple_tag
-def spinner(name: str) -> str:
+def spinner(name: str) -> SafeString:
     """Render an inline SVG spinner by name.
 
     Usage:
