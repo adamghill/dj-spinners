@@ -2,6 +2,19 @@
 
 > Pure SVG loading spinners for Django.
 
+
+Install in your project and add to INSTALLED_APPS in `settings.py`
+
+```python
+INSTALLED_APPS [
+    ...
+    "dj_spinners",
+]
+
+```
+
+Use it in your templates
+
 ```html
 {% load dj_spinners %}
 
