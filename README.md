@@ -193,9 +193,9 @@ NOTE: All spinners are displayed inside a 24 x 24 dp view box. The main content 
       <td>471</td>
    </tr>
    <tr>
-      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/4-dots-goeey.svg">4-dots-goeey</a></td>
+      <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/4-dots-gooey.svg">4-dots-gooey</a></td>
       <td>
-         <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/4-dots-goeey.svg" />
+         <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/4-dots-gooey.svg" />
       </td>
       <td>951</td>
    </tr>

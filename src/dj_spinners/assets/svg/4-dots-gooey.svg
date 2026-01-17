@@ -1,4 +1,4 @@
-<svg class="loader" viewBox="204 184 264 32"><style>@keyframes gooey {
+<svg class="loader" viewBox="204 184 264 32" xmlns="http://www.w3.org/2000/svg"><style>@keyframes gooey {
             to {
                 transform: translate3d(230px, 0, 0)
             }
