@@ -1,19 +1,20 @@
-# dj-spinners
+# dj-spinners 💫
 
 > Pure SVG loading spinners for Django.
 
+## Installation 🤘
 
-Install in your project and add to INSTALLED_APPS in `settings.py`
+1. `uv add dj-spinners` OR `pip install dj-spinners`
+2. Add to `INSTALLED_APPS` in `settings.py`
 
 ```python
 INSTALLED_APPS [
     ...
     "dj_spinners",
 ]
-
 ```
 
-Use it in your templates
+3. Use it in your templates
 
 ```html
 {% load dj_spinners %}
@@ -23,7 +24,7 @@ Use it in your templates
 
 ![3 dots bounce](https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/3-dots-bounce.svg)
 
-All spinners are displayed inside a 24 x 24 dp view box. The main content rests inside the live area of 22 dp with a padding of 1 dp.
+NOTE: All spinners are displayed inside a 24 x 24 dp view box. The main content rests inside the live area of 22 dp with a padding of 1 dp.
 
 ## Spinners 🤩
 
