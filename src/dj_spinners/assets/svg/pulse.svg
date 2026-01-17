@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><style>@keyframes spinner_0KQs{0%{r:0;opacity:1}to{r:11px;opacity:0}}</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><style>@keyframes spinner_0KQs{0%{r:0;opacity:1}to{r:11px;opacity:0}}</style><circle cx="12" cy="12" r="0" style="animation:spinner_0KQs 1.2s cubic-bezier(.52,.6,.25,.99) infinite"/></svg>

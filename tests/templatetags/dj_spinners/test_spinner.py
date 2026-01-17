@@ -45,3 +45,22 @@ def test_cache():
     # One miss for the first load, then one hit for the second load
     assert info_after_first.misses - info_before.misses == 1
     assert info_after_second.hits - info_after_first.hits == 1
+
+
+@pytest.mark.parametrize(
+    "spinner_name",
+    [
+        "pulse",
+        "pulse-2",
+        "pulse-3",
+        "pulse-multiple",
+        "6-dots-scale",
+        "6-dots-scale-middle",
+    ],
+)
+def test_specific_spinners(spinner_name):
+    result = spinner(spinner_name)
+    assert isinstance(result, SafeString)
+    assert "<svg" in result
+    assert "</svg" in result
+    assert "<circle" in result or "<path" in result or "<rect" in result
