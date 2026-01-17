@@ -27,7 +27,6 @@ INSTALLED_APPS [
 NOTE: All spinners are displayed inside a 24 x 24 dp view box. The main content rests inside the live area of 22 dp with a padding of 1 dp.
 
 ## Spinners 🤩
-
 ### Rings
 <table>
    <tr>
@@ -75,7 +74,7 @@ NOTE: All spinners are displayed inside a 24 x 24 dp view box. The main content 
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/90-ring-with-gradient.svg" />
       </td>
-      <td>679</td>
+      <td>664</td>
    </tr>
    <tr>
       <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/90-ring.svg">90-ring</a></td>
@@ -197,7 +196,7 @@ NOTE: All spinners are displayed inside a 24 x 24 dp view box. The main content 
       <td>
          <img src="https://raw.githubusercontent.com/adamghill/dj-spinners/refs/heads/main/src/dj_spinners/assets/svg/4-dots-gooey.svg" />
       </td>
-      <td>951</td>
+      <td>986</td>
    </tr>
    <tr>
       <td><a href="https://github.com/adamghill/dj-spinners/blob/main/src/dj_spinners/assets/svg/4-dots-rotate.svg">4-dots-rotate</a></td>
