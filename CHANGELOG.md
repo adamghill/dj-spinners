@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1
+
+- Fix a few broken svgs.
+
 ## 0.3.0
 
 - Optimize svg size.
