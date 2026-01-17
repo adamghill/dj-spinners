@@ -37,7 +37,7 @@ dev-dependencies = [
     "pytest < 9",
     "pytest-django >= 0",
     "pytest-cov >= 0",
-    "mypy >= 0",
+    "ty>=0.0.12",
 ]
 
 [project.urls]
@@ -127,11 +127,7 @@ skip_covered = true
 skip_empty = true
 sort = "cover"
 
-[tool.mypy]
-python_version = "3.10"
-warn_return_any = true
-warn_unused_configs = true
-ignore_missing_imports = true
+[tool.ty]
 
 [build-system]
 requires = ["uv_build>=0.8.12,<0.9.0"]
